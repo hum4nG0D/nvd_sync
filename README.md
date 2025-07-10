@@ -1,6 +1,11 @@
 # nvd_sync
 Sync NVD database to a local copy
 
+This is a part of CVE Hunter project which can be found here:
+CVE Hunter Web App github project: [https://github.com/hum4nG0D/CVEhunter](https://github.com/hum4nG0D/CVEhunter)
+Write up: [https://hum4ng0d.github.io/posts/Code-Project-CVE-Hunter/](https://hum4ng0d.github.io/posts/Code-Project-CVE-Hunter/)
+
+
 ## Database Setup (assumming you already have postgreSQL installed):
 Creating database user and database:
 ```
