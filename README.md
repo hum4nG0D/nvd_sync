@@ -1,5 +1,5 @@
 # nvd_sync
-Sync NVD database to a local copy
+Sync NVD database to a local copy.
 
 This is a part of CVE Hunter project which can be found here:
 CVE Hunter Web App github project: [https://github.com/hum4nG0D/CVEhunter](https://github.com/hum4nG0D/CVEhunter)
